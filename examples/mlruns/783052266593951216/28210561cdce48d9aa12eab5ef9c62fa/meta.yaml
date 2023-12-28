@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/eddy_/VIU-13MBID/examples/mlruns/783052266593951216/28210561cdce48d9aa12eab5ef9c62fa/artifacts
+end_time: 1703726304302
+entry_point_name: ''
+experiment_id: '783052266593951216'
+lifecycle_stage: active
+run_id: 28210561cdce48d9aa12eab5ef9c62fa
+run_name: Randrom Forest
+run_uuid: 28210561cdce48d9aa12eab5ef9c62fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703726289132
+status: 3
+tags: []
+user_id: eddy_

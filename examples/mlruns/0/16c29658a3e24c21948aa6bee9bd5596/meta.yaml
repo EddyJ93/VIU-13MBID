@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/eddy_/VIU-13MBID/examples/mlruns/0/16c29658a3e24c21948aa6bee9bd5596/artifacts
+end_time: 1703725740659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16c29658a3e24c21948aa6bee9bd5596
+run_name: legendary-doe-916
+run_uuid: 16c29658a3e24c21948aa6bee9bd5596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703725726097
+status: 3
+tags: []
+user_id: eddy_

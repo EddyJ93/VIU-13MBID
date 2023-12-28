@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/eddy_/VIU-13MBID/examples/mlruns/0/c3281551ae76496d88838d8ad492e1fe/artifacts
+end_time: 1703725777788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3281551ae76496d88838d8ad492e1fe
+run_name: honorable-steed-36
+run_uuid: c3281551ae76496d88838d8ad492e1fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703725768211
+status: 3
+tags: []
+user_id: eddy_

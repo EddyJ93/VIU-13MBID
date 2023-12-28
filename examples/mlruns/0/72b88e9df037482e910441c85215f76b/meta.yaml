@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/eddy_/VIU-13MBID/examples/mlruns/0/72b88e9df037482e910441c85215f76b/artifacts
+end_time: 1703709337950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72b88e9df037482e910441c85215f76b
+run_name: luminous-lamb-867
+run_uuid: 72b88e9df037482e910441c85215f76b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703709331500
+status: 3
+tags: []
+user_id: eddy_

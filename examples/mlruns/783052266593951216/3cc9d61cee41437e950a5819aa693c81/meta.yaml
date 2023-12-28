@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/eddy_/VIU-13MBID/examples/mlruns/783052266593951216/3cc9d61cee41437e950a5819aa693c81/artifacts
+end_time: 1703726316920
+entry_point_name: ''
+experiment_id: '783052266593951216'
+lifecycle_stage: active
+run_id: 3cc9d61cee41437e950a5819aa693c81
+run_name: Otra tecnica
+run_uuid: 3cc9d61cee41437e950a5819aa693c81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703726307686
+status: 3
+tags: []
+user_id: eddy_

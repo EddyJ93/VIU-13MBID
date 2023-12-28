@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/eddy_/VIU-13MBID/examples/mlruns/0/a7d7433718324f92a1ab00e6d21c76c1/artifacts
+end_time: 1703708964152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7d7433718324f92a1ab00e6d21c76c1
+run_name: big-shark-746
+run_uuid: a7d7433718324f92a1ab00e6d21c76c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703708955431
+status: 3
+tags: []
+user_id: eddy_
