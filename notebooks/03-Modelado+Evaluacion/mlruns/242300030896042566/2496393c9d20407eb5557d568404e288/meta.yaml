@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/eddy_/VIU-13MBID/notebooks/03-Modelado%2BEvaluacion/mlruns/242300030896042566/2496393c9d20407eb5557d568404e288/artifacts
+end_time: 1710240700451
+entry_point_name: ''
+experiment_id: '242300030896042566'
+lifecycle_stage: active
+run_id: 2496393c9d20407eb5557d568404e288
+run_name: KNN
+run_uuid: 2496393c9d20407eb5557d568404e288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710240681896
+status: 3
+tags: []
+user_id: eddy_

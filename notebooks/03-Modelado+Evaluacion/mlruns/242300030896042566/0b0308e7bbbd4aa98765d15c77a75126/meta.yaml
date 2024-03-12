@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/eddy_/VIU-13MBID/notebooks/03-Modelado%2BEvaluacion/mlruns/242300030896042566/0b0308e7bbbd4aa98765d15c77a75126/artifacts
+end_time: 1710241537608
+entry_point_name: ''
+experiment_id: '242300030896042566'
+lifecycle_stage: active
+run_id: 0b0308e7bbbd4aa98765d15c77a75126
+run_name: Decision Tree
+run_uuid: 0b0308e7bbbd4aa98765d15c77a75126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710241522874
+status: 3
+tags: []
+user_id: eddy_

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/eddy_/VIU-13MBID/notebooks/03-Modelado%2BEvaluacion/mlruns/242300030896042566/c7ac601d1fba44f399e974f8ab9a212a/artifacts
+end_time: 1710241561629
+entry_point_name: ''
+experiment_id: '242300030896042566'
+lifecycle_stage: active
+run_id: c7ac601d1fba44f399e974f8ab9a212a
+run_name: Random Forest
+run_uuid: c7ac601d1fba44f399e974f8ab9a212a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710241551191
+status: 3
+tags: []
+user_id: eddy_
